@@ -1,11 +1,17 @@
-import "./App.css";
+import Button from "./components/Button";
+import ButtonGradient from "./assets/svg/ButtonGradient";
+import Header from "./components/Header";
 
 function App() {
   return (
     <>
-      <div>
-        <h1 className="text-4xl font-bold underline">Hello world!</h1>
+     
+
+      <div className="pt-[4.75rem] lg:[5.25] overflow-hidden">
+        <Header />
+     
       </div>
+      <ButtonGradient />
     </>
   );
 }
