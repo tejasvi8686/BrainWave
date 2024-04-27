@@ -11,7 +11,7 @@ const Footer = () => {
           © {new Date().getFullYear()}. All rights reserved.
         </p>
         <p className="caption text-n-3">
-          ❤️ Crafted by{" "}
+          ❤️ Crafted with passion by{" "}
           <Link target="_blank" to="https://tejasviraj.vercel.app/">Tejasvi Raj</Link>{" "}
         </p>
 
