@@ -18,22 +18,22 @@ Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exe
 - Tailwind CSS
 
 ## ✨ Features
-👉 **Beautiful Sections**: Includes hero, services, features, how to use, roadmap, pricing, footer, and header.
+👉 Sections: Hero, services, features, how to use, roadmap, pricing, footer, header.
 
-👉 **Parallax Animations**: Engaging effects triggered by mouse movement and scrolling
+👉 Parallax Animations: Engaging effects with mouse and scroll.
 
-👉 **Complex UI Geometry**: Utilizes tailwindcss for intricate shapes like circular feature displays, grid lines, and side lines.
+👉 Complex UI Geometry: Tailwindcss for intricate shapes.
 
-👉 **Latest UI Trends**: Incorporates modern design elements such as bento grids.
+👉 Latest UI Trends: Modern elements like bento grids.
 
-👉 **Cool Gradients**: Enhances visuals with stylish gradients using Tailwind CSS for cards, buttons, etc.
+👉 Cool Gradients: Stylish gradients with Tailwind CSS.
 
-👉 **Responsive**: Ensures seamless functionality and aesthetics across all devices
+👉 Responsive: Seamless across all devices.
 
 
 
 For Demo checkout following link👇: <br />
-Fully Responsive Website with Modern UI/UX in React JS with Tailwind](https://ts-brainwave.vercel.app/) <br />
+[Nextjs Full stack Form builder Demo](https://ts-brainwave.vercel.app/) <br />
 
 
 
@@ -43,7 +43,7 @@ Fully Responsive Website with Modern UI/UX in React JS with Tailwind](https://ts
 
 <p align="center">
 
-  <img src="https://iili.io/Jrrfzbt.md.png" width="750" title="hover text">
+  <img src="https://i.postimg.cc/4dT8Q9cm/Screenshot-2024-04-27-222600.png" width="750" title="hover text">
   
 </p>
 
@@ -51,7 +51,7 @@ Fully Responsive Website with Modern UI/UX in React JS with Tailwind](https://ts
 
 <p align="center">
 
-  <img src="https://iili.io/Jrrf3Wg.md.png" width="750" title="hover text">
+  <img src="https://i.postimg.cc/wB55Hbtj/Screenshot-2024-04-27-222610.png" width="750" title="hover text">
   
 </p>
 
@@ -59,7 +59,7 @@ Fully Responsive Website with Modern UI/UX in React JS with Tailwind](https://ts
 
 <p align="center">
 
-  <img src="https://iili.io/JrrfFsa.md.png" width="750" title="hover text">
+  <img src="https://i.postimg.cc/D0vBt3Bh/Screenshot-2024-04-27-222624.png" width="750" title="hover text">
   
 </p>
 
@@ -67,7 +67,7 @@ Fully Responsive Website with Modern UI/UX in React JS with Tailwind](https://ts
 
 <p align="center">
 
-  <img src="https://iili.io/Jrrfo5N.md.png" width="750" title="hover text">
+  <img src="https://i.postimg.cc/Xv6KR0YP/Screenshot-2024-04-27-222643.png" width="750" title="hover text">
   
 </p>
 
@@ -75,7 +75,7 @@ Fully Responsive Website with Modern UI/UX in React JS with Tailwind](https://ts
 
 <p align="center">
 
-  <img src="https://iili.io/Jrrfq0v.md.png" width="750" title="hover text">
+  <img src="https://i.postimg.cc/6qpfMLp5/Screenshot-2024-04-27-222652.png" width="750" title="hover text">
   
 </p>
 
