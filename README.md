@@ -1,4 +1,4 @@
-# Full stack Form builder, React, Typescript , Dnd-Kit, PostgreSQL, Prisma, Tailwind 🔥
+# Fully Responsive Website with Modern UI/UX in React JS with Tailwind 🔥
 
 ![GitHub stars](https://img.shields.io/github/stars/tejasvi8686/BrainWave?style=social&logo=ApacheSpark&label=Stars)&nbsp;&nbsp;
 ![GitHub forks](https://img.shields.io/github/forks/tejasvi8686/BrainWave?style=social&logo=KashFlow&maxAge=3600)&nbsp;&nbsp;
@@ -33,13 +33,14 @@ Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exe
 
 
 For Demo checkout following link👇: <br />
-[Nextjs Full stack Form builder Demo](https://ts-brainwave.vercel.app/) <br />
+[Fully Responsive Website with Modern UI/UX in React JS with Tailwind](https://ts-brainwave.vercel.app/) <br />
 
 
 
 ## Images of Full stack Form builder:
 
-#### Home
+#### Home  
+
 
 <p align="center">
 
@@ -92,13 +93,15 @@ For Demo checkout following link👇: <br />
 #### Mobile Version
 
 
-![Next.js Full stack Form builder](https://iili.io/Jr6362R.png)
-![Next.js Full stack Form builder](https://iili.io/Jr63gEJ.png)
-![Next.js Full stack Form builder](https://iili.io/Jr63rrv.png)
-![Next.js Full stack Form builder](https://iili.io/Jr638Lg.png)
-![Next.js Full stack Form builder](https://iili.io/Jr63P7p.png)
-![Next.js Full stack Form builder](https://iili.io/Jr63ikN.png)
-![Next.js Full stack Form builder](https://iili.io/Jr63spI.png)
+
+
+![Brainwave - Modern UI/UX website](https://iili.io/J69doHg.png)
+![Brainwave - Modern UI/UX website](https://iili.io/J69dCUF.png)
+![Brainwave - Modern UI/UX website](https://iili.io/J69dBl1.png)
+![Brainwave - Modern UI/UX website](https://iili.io/J69dxRa.png)
+![Brainwave - Modern UI/UX website](https://iili.io/J69dzOJ.png)
+![Brainwave - Modern UI/UX website](https://iili.io/Jr63ikN.png)
+![Brainwave - Modern UI/UX website](https://iili.io/Jr63spI.png)
 
 
 
