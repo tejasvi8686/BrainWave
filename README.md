@@ -10,32 +10,30 @@
 
 ## 📑 Introduction
 
-Welcome to our Form Builder Application! This application allows you to create stunning forms with a drag-and-drop designer, customize them, and share them with others. It's built with Next.js, Dnd-kit library, TypeScript, Tailwind CSS, Vercel PostgreSQL, and Prisma as ORM.
+Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general.
 
 ## 💻 Technologies Used
-- **Next.js 13** with **AppRouter**: For building a scalable and efficient web application.
-- **Dnd-kit library**: To provide a smooth drag and drop experience.
-- **ServerActions**: For handling server-side operations.
-- **TypeScript**: For adding strong typing to enhance code quality and maintainability.
-- **Tailwindcss / Shadcn UI**: For styling and responsive design.
-- **Vercel PostgreSQL**: As the database solution.
-- **Prisma**: As the ORM to interact with the database.
+- Vite
+- React.js
+- Tailwind CSS
 
 ## ✨ Features
-- **Responsive**: Works on any device, providing an optimal viewing experience.
-- **Drag and Drop Designer**: Create forms with ease using the intuitive drag and drop interface.
-- **Layout Fields**: Includes Title, SubTitle, Spacer, Separator, Paragraph for structuring the form.
-- **Form Fields**: Supports Text, Number, Select, Date, Checkbox, Textarea inputs.
-- **Customization**: Easily add and customize new fields as per requirements.
-- **Preview**: Form preview dialog to review before publishing.
-- **Sharing**: Share form URL for wider access.
-- **Submission/Validation**: Robust form submission and validation system.
-- **Analytics**: Track form stats including visits and submissions.
+👉 **Beautiful Sections**: Includes hero, services, features, how to use, roadmap, pricing, footer, and header.
+
+👉 **Parallax Animations**: Engaging effects triggered by mouse movement and scrolling
+
+👉 **Complex UI Geometry**: Utilizes tailwindcss for intricate shapes like circular feature displays, grid lines, and side lines.
+
+👉 **Latest UI Trends**: Incorporates modern design elements such as bento grids.
+
+👉 **Cool Gradients**: Enhances visuals with stylish gradients using Tailwind CSS for cards, buttons, etc.
+
+👉 **Responsive**: Ensures seamless functionality and aesthetics across all devices
 
 
 
 For Demo checkout following link👇: <br />
-[Nextjs Full stack Form builder Demo](https://ts-form-builder.vercel.app/) <br />
+Fully Responsive Website with Modern UI/UX in React JS with Tailwind](https://ts-brainwave.vercel.app/) <br />
 
 
 
