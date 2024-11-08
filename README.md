@@ -14,7 +14,7 @@ Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exe
 
 ## 💻 Technologies Used
 - Vite
-- React.js
+- React.js 
 - Tailwind CSS
 
 ## ✨ Features
