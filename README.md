@@ -6,7 +6,7 @@
 
 ---
 # ⭐DO NOT FORGET TO STAR THIS REPO⭐
----
+-------------------------------------
 
 ## 📑 Introduction
 
